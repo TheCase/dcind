@@ -87,4 +87,3 @@ stop_docker() {
   kill -TERM $pid
   wait $pid
 }
-
